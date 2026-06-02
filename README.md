@@ -22,8 +22,7 @@ Personal portfolio showcasing:
 - Three.js
 
 ## Live Website
-
-Coming Soon
+https://tarun-portfolio-virid.vercel.app/
 
 ## Contact
 
